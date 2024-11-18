@@ -1,0 +1,7 @@
+D:\C# project\LeManhCuong_2280600340\Bt_week2\Bt_week2\bin\Debug\Bt_week2.exe.config
+D:\C# project\LeManhCuong_2280600340\Bt_week2\Bt_week2\bin\Debug\Bt_week2.exe
+D:\C# project\LeManhCuong_2280600340\Bt_week2\Bt_week2\bin\Debug\Bt_week2.pdb
+D:\C# project\LeManhCuong_2280600340\Bt_week2\Bt_week2\obj\Debug\Bt_week2.csproj.AssemblyReference.cache
+D:\C# project\LeManhCuong_2280600340\Bt_week2\Bt_week2\obj\Debug\Bt_week2.csproj.CoreCompileInputs.cache
+D:\C# project\LeManhCuong_2280600340\Bt_week2\Bt_week2\obj\Debug\Bt_week2.exe
+D:\C# project\LeManhCuong_2280600340\Bt_week2\Bt_week2\obj\Debug\Bt_week2.pdb
